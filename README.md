@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm José</h1>
 <h3 align="center">better known as Carlos</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=birobirobiro" alt="birobirobiro" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosaraujopc" alt="carlosaraujopc" /> </p>
 
 - 🌱 I’m currently learning **JavaScript, ReactJS, React Native, NodeJS**
 
